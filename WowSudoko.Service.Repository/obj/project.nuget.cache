@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PY2VtyhGyK1xtn0W7zVJY7XC8yc2DHK4pnq9gNg6KlAJQ3yLAlPnQgxO8S4csVjBR7L0f1+KTDOvSjuCQYFUsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joel Sajan\\Downloads\\MyGames\\MyGames\\WowSudoko\\WowSudoko.Service.Repository\\WowSudoko.Service.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joel Sajan\\.nuget\\packages\\xamarin.forms\\5.0.0.2401\\xamarin.forms.5.0.0.2401.nupkg.sha512"
+  ],
+  "logs": []
+}

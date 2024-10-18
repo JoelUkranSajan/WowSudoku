@@ -1,0 +1,89 @@
+﻿<Properties StartupConfiguration="{271DF8D9-7746-4702-A1EB-1B32A9E9B60B}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3a_API_33_x86_64" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>WowSudoko/WowSudoko.Infrastructure/WowSudoko.Infrastructure.csproj</String>
+    <String>WowSudoko/WowSudoko.Managers/WowSudoko.Managers.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WowSudoko/ViewModels/SudokoMenuViewModel.cs">
+    <Files>
+      <File FileName="WowSudoko/Views/SudokoGameView.xaml.cs" Line="1" Column="1" />
+      <File FileName="WowSudoko/Views/SudokoGameView.xaml" Line="1" Column="1" />
+      <File FileName="WowSudoko/ViewModels/SudokoGameViewModel.cs" Line="110" Column="30" />
+      <File FileName="WowSudoko/ViewModels/XamarinFormsFiveViewModel.cs" />
+      <File FileName="WowSudoko/Views/XamarinFormsFiveView.xaml" />
+      <File FileName="WowSudoko/Views/XamarinFormsFiveView.xaml.cs" />
+      <File FileName="WowSudoko/Views/SudokoMenuView.xaml" Line="42" Column="36" />
+      <File FileName="WowSudoko/Views/SudokoMenuView.xaml.cs" />
+      <File FileName="WowSudoko/App.xaml.cs" />
+      <File FileName="WowSudoko/Views/FlyoutPageView.xaml" />
+      <File FileName="WowSudoko/Views/FlyoutPageView.xaml.cs" />
+      <File FileName="WowSudoko/App.xaml" />
+      <File FileName="WowSudoko/Model/SudokoSqlModel.cs" />
+      <File FileName="WowSudoko/Managers/SQLHelperManager.cs" />
+      <File FileName="WowSudoko/ViewModels/SudokoMenuViewModel.cs" Line="66" Column="58" />
+      <File FileName="WowSudoko/Logic/LogicMaker.cs" />
+      <File FileName="WowSudoko/CustomControls/CustomLoader.cs" />
+      <File FileName="WowSudoko.Android/MainActivity.cs" />
+      <File FileName="WowSudoko.iOS/AppDelegate.cs" />
+      <File FileName="WowSudoko/ViewModels/SampleLoaderPageModel.cs" />
+      <File FileName="WowSudoko/ViewModels/BasePageModel.cs" />
+      <File FileName="WowSudoko/ViewModels/IndexterClass.cs" />
+      <File FileName="WowSudoko/ViewModels/NewBallPageModel.cs" />
+      <File FileName="WowSudoko/Utilities/EndPointService.cs" />
+      <File FileName="WowSudoko/Utilities/Interface/IEndpointService.cs" />
+      <File FileName="WowSudoko/Utilities/CheckForBoardApi.cs" />
+      <File FileName="WowSudoko/Employee.cs" />
+      <File FileName="WowSudoko.Android/Services/HTTPClientService_Android.cs" />
+      <File FileName="WowSudoko/Utilities/Interface/IHTTPClientService.cs" />
+      <File FileName="WowSudoko/Models/SudokoModel.cs" />
+      <File FileName="WowSudoko/Views/Animations.xaml" />
+      <File FileName="WowSudoko/Views/MicroAnimations.xaml" />
+      <File FileName="WowSudoko/Views/PathTester.xaml" />
+      <File FileName="WowSudoko/Views/NewBallPage.xaml" />
+      <File FileName="WowSudoko/Views/StartAnimationAction.cs" />
+      <File FileName="WowSudoko/Views/StopAnimationAction.cs" />
+      <File FileName="WowSudoko/MainPage.xaml.cs" />
+      <File FileName="WowSudoko/Views/MicroAnimations.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WowSudoko" expanded="True">
+            <Node name="Libraries" expanded="True">
+              <Node name="WowSudoko" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                </Node>
+                <Node name="Models" expanded="True" />
+                <Node name="ViewModels" expanded="True">
+                  <Node name="SudokoMenuViewModel.cs" selected="True" />
+                </Node>
+                <Node name="Views" expanded="True">
+                  <Node name="MicroAnimations.xaml" expanded="True" />
+                  <Node name="SudokoGameView.xaml" expanded="True" />
+                  <Node name="SudokoMenuView.xaml" expanded="True" />
+                </Node>
+                <Node name="App.xaml" expanded="True" />
+                <Node name="MainPage.xaml" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="WowSudoko.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WowSudoko.Android PreferredExecutionTarget="Android.Pixel_3a_API_33_x86_64" AndroidDesignerPreferredTheme="MainTheme" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,73 @@
+/Users/jusajan/Projects/WowSudoko/WowSudoko/bin/Debug/netstandard2.0/WowSudoko.deps.json
+/Users/jusajan/Projects/WowSudoko/WowSudoko/bin/Debug/netstandard2.0/WowSudoko.dll
+/Users/jusajan/Projects/WowSudoko/WowSudoko/bin/Debug/netstandard2.0/ref/WowSudoko.dll
+/Users/jusajan/Projects/WowSudoko/WowSudoko/bin/Debug/netstandard2.0/WowSudoko.pdb
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Popup/SettingsPopupPage.xaml.g.cs
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Views/Animations.xaml.g.cs
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Views/FlyoutPageView.xaml.g.cs
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Views/MicroAnimations.xaml.g.cs
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Views/NewBallPage.xaml.g.cs
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Views/PathTester.xaml.g.cs
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Views/SampleLoader.xaml.g.cs
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Views/SudokoGameView.xaml.g.cs
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Views/SudokoMenuView.xaml.g.cs
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Views/XamarinFormsFiveView.xaml.g.cs
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/WowSudoko.AssemblyInfoInputs.cache
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/WowSudoko.AssemblyInfo.cs
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/WowSudoko.csproj.CoreCompileInputs.cache
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/WowSudoko.dll
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/ref/WowSudoko.dll
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/WowSudoko.pdb
+/Users/jusajan/Projects/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/WowSudoko.csproj.AssemblyReference.cache
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/bin/Debug/netstandard2.0/WowSudoko.deps.json
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/bin/Debug/netstandard2.0/WowSudoko.dll
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/bin/Debug/netstandard2.0/ref/WowSudoko.dll
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/bin/Debug/netstandard2.0/WowSudoko.pdb
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/WowSudoko.csproj.AssemblyReference.cache
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Popup/SettingsPopupPage.xaml.g.cs
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Views/Animations.xaml.g.cs
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Views/FlyoutPageView.xaml.g.cs
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Views/MicroAnimations.xaml.g.cs
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Views/NewBallPage.xaml.g.cs
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Views/PathTester.xaml.g.cs
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Views/SampleLoader.xaml.g.cs
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Views/SudokoGameView.xaml.g.cs
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Views/SudokoMenuView.xaml.g.cs
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/Views/XamarinFormsFiveView.xaml.g.cs
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/WowSudoko.AssemblyInfoInputs.cache
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/WowSudoko.AssemblyInfo.cs
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/WowSudoko.csproj.CoreCompileInputs.cache
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/WowSudoko.dll
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/ref/WowSudoko.dll
+/Users/jusajan/Documents/GitHub/MyGames/WowSudoko/WowSudoko/obj/Debug/netstandard2.0/WowSudoko.pdb
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\bin\Debug\netstandard2.0\WowSudoko.deps.json
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\bin\Debug\netstandard2.0\WowSudoko.dll
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\bin\Debug\netstandard2.0\WowSudoko.pdb
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\WowSudoko.csproj.AssemblyReference.cache
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\WowSudoko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\Popup\SettingsPopupPage.xaml.g.cs
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\Views\Animations.xaml.g.cs
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\Views\FlyoutPageView.xaml.g.cs
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\Views\MicroAnimations.xaml.g.cs
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\Views\NewBallPage.xaml.g.cs
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\Views\PathTester.xaml.g.cs
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\Views\SampleLoader.xaml.g.cs
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\Views\SudokoGameView.xaml.g.cs
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\Views\SudokoMenuView.xaml.g.cs
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\Views\XamarinFormsFiveView.xaml.g.cs
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\WowSudoko.AssemblyInfoInputs.cache
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\WowSudoko.AssemblyInfo.cs
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\WowSudoko.csproj.CoreCompileInputs.cache
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\WowSudoko.dll
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\refint\WowSudoko.dll
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\WowSudoko.pdb
+C:\Users\Joel Sajan\Downloads\MyGames\MyGames\WowSudoko\WowSudoko\obj\Debug\netstandard2.0\ref\WowSudoko.dll
